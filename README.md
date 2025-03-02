@@ -38,8 +38,8 @@ Before getting started, make sure you have **Node.js** and **npm** installed.
 
 First, clone the project repository to your local machine:
 
-git clone https://github.com/amehta7/Crypto-Price-Tracker.git
-cd web-app
+- git clone https://github.com/amehta7/Crypto-Price-Tracker.git
+- cd web-app
 
 ### 2. Install Dependencies
 
@@ -83,7 +83,7 @@ You can view the full documentation for the project by navigating to **_Tutorial
 
 #### State Management:
 
-- it explains why I chose React Query for state management, and how it helps to manage server state and make efficient API requests. The documentation also highlights how React Query improves the performance and user experience of the app.
+- This section explains why I chose React Query for state management, and how it helps to manage server state and make efficient API requests. The documentation also highlights how React Query improves the performance and user experience of the app.
 
 #### Challenges & Solutions:
 
