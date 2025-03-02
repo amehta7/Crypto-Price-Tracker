@@ -4,6 +4,8 @@ The Crypto Price Tracker is a simple web application that allows users to track 
 
 This application is built using **React**, **React Query**, and **Chart.js** for a dynamic and responsive user experience.
 
+#### Live Site URL: [@Netlify](https://crypto-price-tracker-live.netlify.app/)
+
 ## Features
 
 - Search for popular cryptocurrencies.
